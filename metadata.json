@@ -1,0 +1,6 @@
+{
+  "name": "ElectroMart eCommerce",
+  "description": "Full-stack eCommerce hub with AI semantic search, live order tracking, seller/admin terminals, and smart chatbot support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
